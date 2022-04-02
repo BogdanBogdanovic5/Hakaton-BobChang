@@ -1,0 +1,5 @@
+Naša aplikacija je namenjena za pružanje direktne, fizičke pomoći ljudima sa posebnim potrebama. Korisnike čine osobe kojima se pruža pomoć, i volonteri koji tu pomoć pružaju.
+Osobe sa posebnim potrebama mogu da postave oglas u kome traže pomoć pri nekoj svakodnevnoj aktivnosti (kupovina namirnica, sređivanje kuće, šetanje psa...) koju zbog svojih poteškoća ne mogu sami da izvrše,
+a volonteri mogu da prihvate taj oglas. Volonteri dobijaju oglase na osnovu prethodno navedenih veština (npr. medicinske veštine).
+Ime aplikacije je "Support". Aplikacija je napisana u C# programskom jeziku, a korišćeno korisničko okruženje je Visual Studio Windows Forms.
+Aplikacija nije u potpunosti funkcionalna zato sto nam je potreban server koji nemamo. A nismo uspeli da improvizujemo.
